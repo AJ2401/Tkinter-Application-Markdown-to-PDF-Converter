@@ -306,7 +306,7 @@ The application's structure can be broken down into several key components:
 
 <br>
 
-![Error Exception](Test_Output/Output_Images/Error_Exception.png)
+![Error Exception](/Test_Output/Output_Images/Error_Exception.png)
 
 
 <br>
