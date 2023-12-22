@@ -306,7 +306,7 @@ The application's structure can be broken down into several key components:
 
 <br>
 
-<img src="https://github.com/AJ2401/Tkinter-Application-Markdown-to-PDF-Converter/blob/65bf7de2505adb635cfca23ad3b8921b81301c93/Test_Output/Output_Images/Error_Exception.jpg">
+<img src="Test_Output/Output_Images/Error_Exception.jpg">
 
 
 <br>
