@@ -306,7 +306,7 @@ The application's structure can be broken down into several key components:
 
 <br>
 
-<img src="Test_Output/Output_Images/Error_Exception.jpg">
+<img src="./Test_Output/Output_Images/Error_Exception.jpg">
 
 
 <br>
